@@ -1,0 +1,2 @@
+;;; Generated package description from neotree.el  -*- no-byte-compile: t -*-
+(define-package "neotree" "0.5.2" "A tree plugin like NerdTree for Vim" '((cl-lib "0.5")) :authors '(("jaypei" . "jaypei97159@gmail.com")) :maintainer '("jaypei" . "jaypei97159@gmail.com") :url "https://github.com/jaypei/emacs-neotree")

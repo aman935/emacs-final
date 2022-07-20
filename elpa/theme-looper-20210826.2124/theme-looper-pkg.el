@@ -1,0 +1,2 @@
+;;; Generated package description from theme-looper.el  -*- no-byte-compile: t -*-
+(define-package "theme-looper" "20210826.2124" "A package for switching themes in Emacs interactively" '((emacs "24") (cl-lib "0.5")) :authors '(("Mohammed Ismail Ansari" . "team.terminal@gmail.com")) :maintainer '("Mohammed Ismail Ansari" . "team.terminal@gmail.com") :keywords '("convenience" "color-themes") :url "http://ismail.teamfluxion.com")
